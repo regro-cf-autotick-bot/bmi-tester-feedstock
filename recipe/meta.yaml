@@ -25,6 +25,7 @@ requirements:
     - pytest
     - cfunits
     - standard_names
+    - scripting
 
 test:
   imports:
