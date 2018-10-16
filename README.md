@@ -18,9 +18,8 @@ that allows users to run tests programmatically.
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/bmi-tester-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/bmi-tester-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/bmi-tester-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/bmi-tester-feedstock)
-![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/bmi-tester-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/bmi-tester-feedstock)
 
 Current release info
 ====================
