@@ -26,6 +26,7 @@ requirements:
     - cfunits
     - standard_names
     - scripting
+    - model_metadata
 
 test:
   imports:
