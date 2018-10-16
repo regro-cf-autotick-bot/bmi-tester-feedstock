@@ -1,4 +1,4 @@
-{% set version = "0.3.0" %}
+{% set version = "0.3.1" %}
 
 package:
   name: bmi-tester
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/csdms/bmi-tester/archive/v{{ version }}.tar.gz
-  sha256: 3eddc4f5cf4c04f5729acf2009f68e538a010cccf4cc7cd86f2648516fc96158
+  sha256: 3e74952ba6eb85e386eaaa2631e5bcd416301d23b0a5ae373b4b631a57270bcd
 
 build:
   number: 0
@@ -26,6 +26,7 @@ requirements:
     - cfunits
     - standard_names
     - scripting
+    - model_metadata
 
 test:
   imports:
