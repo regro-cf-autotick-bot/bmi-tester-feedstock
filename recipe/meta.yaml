@@ -27,6 +27,7 @@ requirements:
     - standard_names
     - scripting
     - model_metadata
+    - click
 
 test:
   imports:
