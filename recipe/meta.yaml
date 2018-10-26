@@ -1,4 +1,4 @@
-{% set version = "0.3.1" %}
+{% set version = "0.4.0" %}
 
 package:
   name: bmi-tester
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/csdms/bmi-tester/archive/v{{ version }}.tar.gz
-  sha256: 3e74952ba6eb85e386eaaa2631e5bcd416301d23b0a5ae373b4b631a57270bcd
+  sha256: a28d3835226b727affa92b2711cee683636645e735cd6e2a125c241fc7a644a8
 
 build:
   number: 0
