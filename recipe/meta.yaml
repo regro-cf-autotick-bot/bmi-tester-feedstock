@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/csdms/bmi-tester/archive/v{{ version }}.tar.gz
-  sha256: f29e1d22ebb643c49a0581ba95e1f10fb5c326c3fd36732b5c34afffadac8f6a
+  sha256: e6bf1ddc2a970b82a024814cf17130130e3d5ff1d9ede0b01532d8dffbd14ff5
 
 build:
   number: 0
